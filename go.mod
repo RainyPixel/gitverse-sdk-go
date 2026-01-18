@@ -1,3 +1,3 @@
-module github.com/RainyPixel/gitverse-sdk-go/v5
+module github.com/RainyPixel/gitverse-sdk-go
 
 go 1.21
